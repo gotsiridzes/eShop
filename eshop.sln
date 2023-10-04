@@ -5,13 +5,13 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7E518A24-5551-4512-93AE-52490E7C0A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{66441488-45B0-4598-BAF9-34AA3B6B6AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{66441488-45B0-4598-BAF9-34AA3B6B6AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{F087AC6F-4611-4EB4-98B8-F43448D4771E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{F087AC6F-4611-4EB4-98B8-F43448D4771E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{46682FFD-A56C-4AC1-B0FE-0AEE6B4B3A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{46682FFD-A56C-4AC1-B0FE-0AEE6B4B3A30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eSop.Api", "eSop.Api\eSop.Api.csproj", "{0E60D47D-05B8-4197-B6A1-0CE6161C08BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.Api", "eSop.Api\eShop.Api.csproj", "{0E60D47D-05B8-4197-B6A1-0CE6161C08BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
