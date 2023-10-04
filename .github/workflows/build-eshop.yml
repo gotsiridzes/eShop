@@ -14,6 +14,6 @@ jobs:
       with:
         dotnet-version: 7.0.x
     - name: Restore dependencies
-      run: dotnet restore *.sln
+      run: dotnet restore eshop.sln
     - name: Build
-      run: dotnet build --no-restore *.sln
+      run: dotnet build --no-restore eshop.sln
