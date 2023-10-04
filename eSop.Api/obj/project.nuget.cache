@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yopidMxmLdK2BuCHkX/WHNEPxSsb3DaAOKo0ijlb4yjUWaQV4yOF7do29UL/l/l8q9BafCm7u1J643VqRuhTLQ==",
+  "dgSpecHash": "2pqRM5h/Ofe1OF5AwPocBIlWeiK3OsNmbv/w5x21QtYWwrIFbbV/+mCaMOT+cizQUR3PGdbT4ff4XOenS9lJrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gotsi\\source\\repos\\eshop\\eSop.Api\\eSop.Api.csproj",
+  "projectFilePath": "C:\\Users\\Gotsi\\source\\repos\\eshop\\eSop.Api\\eShop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gotsi\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Gotsi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
