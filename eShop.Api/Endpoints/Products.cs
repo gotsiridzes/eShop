@@ -6,7 +6,7 @@ using Domain.Products;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace eSop.Api.Endpoints;
+namespace eShop.Api.Endpoints;
 
 public class Products
 {
